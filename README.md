@@ -1,16 +1,53 @@
-# hyunfit-frontent
+## Hyun-fit
 
-This template should help get you started developing with Vue 3 in Vite.
+### 1. About The Project
+  - 홈 트레이닝 웹 서비스 플랫폼, 모션인식 트레이닝과 라이브 화상트레이닝 서비스를 제공
 
-## Recommended IDE Setup
+|개발기간|2023.08 - 2023.10 (8주)|
+|--------|-----------------------|
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+| 팀원 |담당|
+|------|----|
+|김진우|회원,백오피스,DB설계|
+|양석진|AI트레이닝,회원|
+|이지호|라이브트레이닝,예약,DB설계|
+|최승렬|인프라,메인,AI트레이닝|
 
-## Customize configuration
+### 2. 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### 3. Specification
+![VScode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![vue.js](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![OpenVidu](https://img.shields.io/badge/-OpenVidu-6DB33F?style=for-the-badge&logo=webrtc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-e9967a?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-6a5acd?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## Project Setup
+### 3. ERD
+![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/5b0d1d59-3d8a-4102-b710-b31a1c3aa9f7)
+
+
+### 4. Architecture
+![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/54e7ef08-9340-498e-9c47-aab7127d6e58)
+
+
+### 5. File Structure
+```plaintext
+Hyun-Fit-FE
+ |-->base
+ |-->ai-training
+ |-->bo
+ |-->login
+ |-->main
+ |-->mbr-reservvation
+ |-->mbr-routine
+ |-->pt-room
+ |-->report
+ |-->survey
+ └-->trn
+```
+### 6. Project Setup
 
 ```sh
 npm install
@@ -38,3 +75,5 @@ npm run lint
 ```sh
 npm install openvidu-browser
 ```
+
+
