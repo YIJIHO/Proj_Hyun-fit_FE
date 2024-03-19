@@ -16,7 +16,7 @@
 ### 2. 
 
 ### 3. Specification
-![VScode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&color=black&logoColor=black)
+![VScode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![OpenVidu](https://img.shields.io/badge/-OpenVidu-6DB33F?style=for-the-badge&logo=webrtc&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
