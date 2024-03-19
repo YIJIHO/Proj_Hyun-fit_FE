@@ -13,12 +13,10 @@
 |이지호|라이브트레이닝,예약,DB설계|
 |최승렬|인프라,메인,AI트레이닝|
 
-### 2. 
-
-### 3. Specification
+### 2. Specification
 ![VScode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![OpenVidu](https://img.shields.io/badge/-OpenVidu-6DB33F?style=for-the-badge&logo=webrtc&logoColor=black)
+![OpenVidu](https://img.shields.io/badge/-OpenVidu-6DB33F?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-e9967a?style=for-the-badge&logo=github&logoColor=white)
