@@ -22,15 +22,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-e9967a?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-6a5acd?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 3. ERD
-![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/5b0d1d59-3d8a-4102-b710-b31a1c3aa9f7)
-
-
-### 4. Architecture
+### 3. Architecture
 ![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/54e7ef08-9340-498e-9c47-aab7127d6e58)
 
 
-### 5. File Structure
+### 4. File Structure
 ```plaintext
 Hyun-Fit-FE
  |-->base
@@ -45,7 +41,7 @@ Hyun-Fit-FE
  |-->survey
  └-->trn
 ```
-### 6. Project Setup
+### 5. Project Setup
 
 ```sh
 npm install
